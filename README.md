@@ -1,2 +1,1 @@
-# Server-of-SCADA
-These starting buid of the server of SCADA for the any PLC.
+The goal of the project is to create scripts for a SCADA server for free use upon connection TCP/IP. These scripts are also being created for training purposes, as I have no previous experience with programming other than PLCs. These solutions are not intended to be a complete solution for all potential needs. These scripts are intended for creating smart home systems or SCADA systems for small projects where using TIAportal or similar PLCs from other manufacturers is expensive.
